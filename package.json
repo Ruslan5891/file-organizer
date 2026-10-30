@@ -1,0 +1,11 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scan": "node file-organizer.js scan",
+    "duplicates": "node file-organizer.js duplicates",
+    "organize": "node file-organizer.js organize",
+    "cleanup": "node file-organizer.js cleanup"
+  }
+}
